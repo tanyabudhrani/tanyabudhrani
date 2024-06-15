@@ -46,14 +46,15 @@
     <div>
         <h3>All about me!</h3>
         <ul>
-            <li>👾 My interests in tech began when I jailbroke my iPhone at 11 years old.</li>
-            <li>🔭 I’m currently working on a research project surrounding LLMs and its implications on Linguistics and Prompt Engineering.</li>
+            <li>👾 I jailbroke my phone at 11 years old.</li>
+            <li>🔭 Currently researching LLMs and its implications on Linguistics and Prompt Engineering.</li>
             <li>📕 I post my projects, programming notes, and other helpful resources on my Github.</li>
             <li>🎵 Fun fact: I know American Sign Language!</li>
         </ul>
     </div>
 </div>
 
+<br>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
