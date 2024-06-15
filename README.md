@@ -1,5 +1,5 @@
 <h1 align="center">
-    <samp>&gt; Hello World!, I am
+    <samp>&gt; Hello, World!, I am
         <b><a target="_blank" href="https://www.linkedin.com/in/tanya-budhrani-2ba871193/">Tanya</a></b>
     </samp>
 </h1>
@@ -11,7 +11,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 An aspiring computer science with a keen interest in <b>machine learning</b> and <b>natural language processing</b> 」
+    「 An aspiring computer scientist with a keen interest in <b>machine learning</b> and <b>natural language processing</b> 」
     <br>
     <br>
   </samp>
