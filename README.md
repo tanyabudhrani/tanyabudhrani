@@ -101,8 +101,8 @@
     <a href="https://github.com/tanyabudhrani/Task-Management-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Task-Management-System&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tanyabudhrani/Operating-Systems">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Operating-Systems&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/tanyabudhrani/Data-Structures">
+      <img src="https://github.com/tanyabudhrani/Data-Structures&theme=tokyonight" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/tanyabudhrani/Computer-Organization">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Computer-Organization&theme=tokyonight" alt="GitHub Stats" />
