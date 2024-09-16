@@ -101,6 +101,8 @@
     <a href="https://github.com/tanyabudhrani/Task-Management-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Task-Management-System&theme=tokyonight" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/tanyabudhrani/tanyabudhrani.github.io.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=tanyabudhrani.github.io.git&theme=tokyonight" alt="GitHub Stats" />
   </p>
 </div>
 
