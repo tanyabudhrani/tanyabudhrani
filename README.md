@@ -103,6 +103,9 @@
     </a>
     <a href="https://github.com/tanyabudhrani/tanyabudhrani.github.io">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=tanyabudhrani.github.io&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tanyabudhrani/cybersifyph">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=cybersifyph&theme=tokyonight" alt="GitHub Stats" />
   </p>
 </div>
 
