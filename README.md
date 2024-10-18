@@ -92,8 +92,8 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/tanyabudhrani/Multi-thread-Web-Server">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Multi-thread-Web-Server&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/tanyabudhrani/covid-tracker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=covid-tracker&theme=tokyonight" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/tanyabudhrani/Line-Scheduler">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Line-Scheduler&theme=tokyonight" alt="GitHub Stats" />
