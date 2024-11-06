@@ -95,8 +95,8 @@
     <a href="https://github.com/tanyabudhrani/covid-tracker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=covid-tracker&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tanyabudhrani/Line-Scheduler">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Line-Scheduler&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/tanyabudhrani/SkyByte">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=SkyByte&theme=tokyonight" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/tanyabudhrani/Task-Management-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Task-Management-System&theme=tokyonight" alt="GitHub Stats" />
