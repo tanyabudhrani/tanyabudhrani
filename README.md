@@ -98,7 +98,7 @@
     <a href="https://github.com/tanyabudhrani/SkyByte">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=SkyByte&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tanyabudhrani/tanyasthoughts">
+    <a href="https://github.com/tanyabudhrani/tanyasthoughts.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=tanyasthoughts&theme=tokyonight" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/tanyabudhrani/tanyabudhrani.github.io">
