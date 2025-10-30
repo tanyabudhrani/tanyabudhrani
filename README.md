@@ -92,8 +92,8 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/tanyabudhrani/covid-tracker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=covid-tracker&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/tanyabudhrani/Dont-Overfit-Kaggle-Challenge">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Dont-Overfit-Kaggle-Challenge&theme=tokyonight" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/tanyabudhrani/Layered-Fraud-Credit-Checker.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Layered-Fraud-Credit-Checker&theme=tokyonight" alt="GitHub Stats" />
