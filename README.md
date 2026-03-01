@@ -93,22 +93,22 @@
 <div>
   <p align="center">
     <a href="https://github.com/tanyabudhrani/Dont-Overfit-Kaggle-Challenge">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Dont-Overfit-Kaggle-Challenge&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://gh-card.dev/repos/tanyabudhrani/Dont-Overfit-Kaggle-Challenge.svg?theme=tokyonight" />
     </a>
-    <a href="https://github.com/tanyabudhrani/Layered-Fraud-Credit-Checker.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=Layered-Fraud-Credit-Checker&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/tanyabudhrani/Layered-Fraud-Credit-Checker">
+      <img src="https://gh-card.dev/repos/tanyabudhrani/Layered-Fraud-Credit-Checker.svg?theme=tokyonight" />
     </a>
-    <a href="https://github.com/tanyabudhrani/tanyasthoughts.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=tanyasthoughts&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/tanyabudhrani/tanyasthoughts">
+      <img src="https://gh-card.dev/repos/tanyabudhrani/tanyasthoughts.svg?theme=tokyonight" />
     </a>
     <a href="https://github.com/tanyabudhrani/tanyabudhrani.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=tanyabudhrani.github.io&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://gh-card.dev/repos/tanyabudhrani/tanyabudhrani.github.io.svg?theme=tokyonight" />
     </a>
     <a href="https://github.com/tanyabudhrani/cybersifyph">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanyabudhrani&repo=cybersifyph&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://gh-card.dev/repos/tanyabudhrani/cybersifyph.svg?theme=tokyonight" />
     </a>
-      <a href="https://github.com/jyotsna-venkatesan/Powehi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jyotsna-venkatesan&repo=Powehi&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/jyotsna-venkatesan/Powehi">
+      <img src="https://gh-card.dev/repos/jyotsna-venkatesan/Powehi.svg?theme=tokyonight" />
     </a>
   </p>
 </div>
