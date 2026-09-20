@@ -46,10 +46,9 @@
     <div>
         <h3>All about me!</h3>
         <ul>
-            <li>👾 I jailbroke my phone at 9 years old.</li>
             <li>🔭 Currently researching LLMs and its implications on Linguistics and Prompt Engineering.</li>
             <li>📕 I post my projects, programming notes, and other helpful resources on my Github.</li>
-            <li>🎵 Fun fact: I know American Sign Language!</li>
+            <li>🎵 Fun fact: my favorite author is Ottessa Moshfegh</li>
         </ul>
     </div>
 </div>
